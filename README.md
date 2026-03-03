@@ -2,7 +2,7 @@
 
 ## 🎯 关于我
 
-我是一名充满热情的开发者，专注于构建优雅而高效的解决方案。欢迎浏览我的项目和想法！
+5年全栈开发，AI探索者
 
 ---
 
@@ -25,18 +25,6 @@
 
 ---
 
-## 📊 GitHub 统计
-
-<div align="center">
-
-![zhanghuaiwei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhanghuaiwei&theme=radical&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanghuaiwei&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🚀 精选项目
 
 | 项目 | 描述 | 语言 |
@@ -44,36 +32,6 @@
 | [项目1](https://github.com/zhanghuaiwei/project1) | 项目简短描述 | Python |
 | [项目2](https://github.com/zhanghuaiwei/project2) | 项目简短描述 | JavaScript |
 | [项目3](https://github.com/zhanghuaiwei/project3) | 项目简短描述 | Go |
-
----
-
-## 📚 最近的博客文章
-
-<!-- BLOG-POST-LIST:START -->
-- 待更新...
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🌐 连接我
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zhanghuaiwei)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zhanghuaiwei)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-website.com)
-
-</div>
-
----
-
-## 💡 有趣的事实
-
-- 🎮 热衷于在开源项目中贡献
-- 📚 持续学习新技术和最佳实践  
-- 🤝 开放协作和知识分享
-- ☕ 咖啡驱动的开发者
 
 ---
 
